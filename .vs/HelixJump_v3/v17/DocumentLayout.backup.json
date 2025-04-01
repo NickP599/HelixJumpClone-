@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\UnityProjects2025\\HelixJump_v3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65A6344A-940B-59C2-6586-DA9362766D74}|Assembly-CSharp.csproj|c:\\unityprojects2025\\helixjump_v3\\assets\\helixjumpfs\\scripts\\rigidbodycontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A6344A-940B-59C2-6586-DA9362766D74}|Assembly-CSharp.csproj|solutionrelative:assets\\helixjumpfs\\scripts\\rigidbodycontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A6344A-940B-59C2-6586-DA9362766D74}|Assembly-CSharp.csproj|c:\\unityprojects2025\\helixjump_v3\\assets\\helixjumpfs\\scripts\\senrandomcolors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A6344A-940B-59C2-6586-DA9362766D74}|Assembly-CSharp.csproj|solutionrelative:assets\\helixjumpfs\\scripts\\senrandomcolors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A6344A-940B-59C2-6586-DA9362766D74}|Assembly-CSharp.csproj|c:\\unityprojects2025\\helixjump_v3\\assets\\helixjumpfs\\scripts\\ball\\ballcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A6344A-940B-59C2-6586-DA9362766D74}|Assembly-CSharp.csproj|solutionrelative:assets\\helixjumpfs\\scripts\\ball\\ballcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A6344A-940B-59C2-6586-DA9362766D74}|Assembly-CSharp.csproj|c:\\unityprojects2025\\helixjump_v3\\assets\\helixjumpfs\\scripts\\level\\floor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A6344A-940B-59C2-6586-DA9362766D74}|Assembly-CSharp.csproj|solutionrelative:assets\\helixjumpfs\\scripts\\level\\floor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A6344A-940B-59C2-6586-DA9362766D74}|Assembly-CSharp.csproj|c:\\unityprojects2025\\helixjump_v3\\assets\\helixjumpfs\\scripts\\level\\levelgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A6344A-940B-59C2-6586-DA9362766D74}|Assembly-CSharp.csproj|solutionrelative:assets\\helixjumpfs\\scripts\\level\\levelgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A6344A-940B-59C2-6586-DA9362766D74}|Assembly-CSharp.csproj|c:\\unityprojects2025\\helixjump_v3\\assets\\helixjumpfs\\scripts\\managers\\scorecolector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A6344A-940B-59C2-6586-DA9362766D74}|Assembly-CSharp.csproj|solutionrelative:assets\\helixjumpfs\\scripts\\managers\\scorecolector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A6344A-940B-59C2-6586-DA9362766D74}|Assembly-CSharp.csproj|c:\\unityprojects2025\\helixjump_v3\\assets\\helixjumpfs\\scripts\\ball\\ballevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A6344A-940B-59C2-6586-DA9362766D74}|Assembly-CSharp.csproj|solutionrelative:assets\\helixjumpfs\\scripts\\ball\\ballevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A6344A-940B-59C2-6586-DA9362766D74}|Assembly-CSharp.csproj|c:\\unityprojects2025\\helixjump_v3\\assets\\helixjumpfs\\scripts\\mouserotator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A6344A-940B-59C2-6586-DA9362766D74}|Assembly-CSharp.csproj|solutionrelative:assets\\helixjumpfs\\scripts\\mouserotator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A6344A-940B-59C2-6586-DA9362766D74}|Assembly-CSharp.csproj|c:\\unityprojects2025\\helixjump_v3\\assets\\helixjumpfs\\scripts\\onecollidertrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A6344A-940B-59C2-6586-DA9362766D74}|Assembly-CSharp.csproj|solutionrelative:assets\\helixjumpfs\\scripts\\onecollidertrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A6344A-940B-59C2-6586-DA9362766D74}|Assembly-CSharp.csproj|c:\\unityprojects2025\\helixjump_v3\\assets\\helixjumpfs\\scripts\\managers\\scenesetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A6344A-940B-59C2-6586-DA9362766D74}|Assembly-CSharp.csproj|solutionrelative:assets\\helixjumpfs\\scripts\\managers\\scenesetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A6344A-940B-59C2-6586-DA9362766D74}|Assembly-CSharp.csproj|c:\\unityprojects2025\\helixjump_v3\\assets\\helixjumpfs\\scripts\\managers\\levelprogres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A6344A-940B-59C2-6586-DA9362766D74}|Assembly-CSharp.csproj|solutionrelative:assets\\helixjumpfs\\scripts\\managers\\levelprogres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A6344A-940B-59C2-6586-DA9362766D74}|Assembly-CSharp.csproj|c:\\unityprojects2025\\helixjump_v3\\assets\\helixjumpfs\\scripts\\managers\\imputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A6344A-940B-59C2-6586-DA9362766D74}|Assembly-CSharp.csproj|solutionrelative:assets\\helixjumpfs\\scripts\\managers\\imputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A6344A-940B-59C2-6586-DA9362766D74}|Assembly-CSharp.csproj|c:\\unityprojects2025\\helixjump_v3\\assets\\helixjumpfs\\scripts\\ball\\ballmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A6344A-940B-59C2-6586-DA9362766D74}|Assembly-CSharp.csproj|solutionrelative:assets\\helixjumpfs\\scripts\\ball\\ballmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RigidBodyControl.cs",
+              "DocumentMoniker": "C:\\UnityProjects2025\\HelixJump_v3\\Assets\\HelixJumpFS\\Scripts\\RigidBodyControl.cs",
+              "RelativeDocumentMoniker": "Assets\\HelixJumpFS\\Scripts\\RigidBodyControl.cs",
+              "ToolTip": "C:\\UnityProjects2025\\HelixJump_v3\\Assets\\HelixJumpFS\\Scripts\\RigidBodyControl.cs",
+              "RelativeToolTip": "Assets\\HelixJumpFS\\Scripts\\RigidBodyControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T08:51:00.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SenRandomColors.cs",
+              "DocumentMoniker": "C:\\UnityProjects2025\\HelixJump_v3\\Assets\\HelixJumpFS\\Scripts\\SenRandomColors.cs",
+              "RelativeDocumentMoniker": "Assets\\HelixJumpFS\\Scripts\\SenRandomColors.cs",
+              "ToolTip": "C:\\UnityProjects2025\\HelixJump_v3\\Assets\\HelixJumpFS\\Scripts\\SenRandomColors.cs",
+              "RelativeToolTip": "Assets\\HelixJumpFS\\Scripts\\SenRandomColors.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T08:50:57.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MouseRotator.cs",
+              "DocumentMoniker": "C:\\UnityProjects2025\\HelixJump_v3\\Assets\\HelixJumpFS\\Scripts\\MouseRotator.cs",
+              "RelativeDocumentMoniker": "Assets\\HelixJumpFS\\Scripts\\MouseRotator.cs",
+              "ToolTip": "C:\\UnityProjects2025\\HelixJump_v3\\Assets\\HelixJumpFS\\Scripts\\MouseRotator.cs",
+              "RelativeToolTip": "Assets\\HelixJumpFS\\Scripts\\MouseRotator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T08:32:44.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ScoreColector.cs",
+              "DocumentMoniker": "C:\\UnityProjects2025\\HelixJump_v3\\Assets\\HelixJumpFS\\Scripts\\Managers\\ScoreColector.cs",
+              "RelativeDocumentMoniker": "Assets\\HelixJumpFS\\Scripts\\Managers\\ScoreColector.cs",
+              "ToolTip": "C:\\UnityProjects2025\\HelixJump_v3\\Assets\\HelixJumpFS\\Scripts\\Managers\\ScoreColector.cs",
+              "RelativeToolTip": "Assets\\HelixJumpFS\\Scripts\\Managers\\ScoreColector.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T08:32:40.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SceneSetup.cs",
+              "DocumentMoniker": "C:\\UnityProjects2025\\HelixJump_v3\\Assets\\HelixJumpFS\\Scripts\\Managers\\SceneSetup.cs",
+              "RelativeDocumentMoniker": "Assets\\HelixJumpFS\\Scripts\\Managers\\SceneSetup.cs",
+              "ToolTip": "C:\\UnityProjects2025\\HelixJump_v3\\Assets\\HelixJumpFS\\Scripts\\Managers\\SceneSetup.cs",
+              "RelativeToolTip": "Assets\\HelixJumpFS\\Scripts\\Managers\\SceneSetup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T08:32:40.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LevelProgres.cs",
+              "DocumentMoniker": "C:\\UnityProjects2025\\HelixJump_v3\\Assets\\HelixJumpFS\\Scripts\\Managers\\LevelProgres.cs",
+              "RelativeDocumentMoniker": "Assets\\HelixJumpFS\\Scripts\\Managers\\LevelProgres.cs",
+              "ToolTip": "C:\\UnityProjects2025\\HelixJump_v3\\Assets\\HelixJumpFS\\Scripts\\Managers\\LevelProgres.cs",
+              "RelativeToolTip": "Assets\\HelixJumpFS\\Scripts\\Managers\\LevelProgres.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T08:32:39.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ImputManager.cs",
+              "DocumentMoniker": "C:\\UnityProjects2025\\HelixJump_v3\\Assets\\HelixJumpFS\\Scripts\\Managers\\ImputManager.cs",
+              "RelativeDocumentMoniker": "Assets\\HelixJumpFS\\Scripts\\Managers\\ImputManager.cs",
+              "ToolTip": "C:\\UnityProjects2025\\HelixJump_v3\\Assets\\HelixJumpFS\\Scripts\\Managers\\ImputManager.cs",
+              "RelativeToolTip": "Assets\\HelixJumpFS\\Scripts\\Managers\\ImputManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T08:32:38.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BallController.cs",
+              "DocumentMoniker": "C:\\UnityProjects2025\\HelixJump_v3\\Assets\\HelixJumpFS\\Scripts\\Ball\\BallController.cs",
+              "RelativeDocumentMoniker": "Assets\\HelixJumpFS\\Scripts\\Ball\\BallController.cs",
+              "ToolTip": "C:\\UnityProjects2025\\HelixJump_v3\\Assets\\HelixJumpFS\\Scripts\\Ball\\BallController.cs",
+              "RelativeToolTip": "Assets\\HelixJumpFS\\Scripts\\Ball\\BallController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwCUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T08:32:23.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OneColliderTrigger.cs",
+              "DocumentMoniker": "C:\\UnityProjects2025\\HelixJump_v3\\Assets\\HelixJumpFS\\Scripts\\OneColliderTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\HelixJumpFS\\Scripts\\OneColliderTrigger.cs",
+              "ToolTip": "C:\\UnityProjects2025\\HelixJump_v3\\Assets\\HelixJumpFS\\Scripts\\OneColliderTrigger.cs",
+              "RelativeToolTip": "Assets\\HelixJumpFS\\Scripts\\OneColliderTrigger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T08:31:52.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BallMovement.cs",
+              "DocumentMoniker": "C:\\UnityProjects2025\\HelixJump_v3\\Assets\\HelixJumpFS\\Scripts\\Ball\\BallMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\HelixJumpFS\\Scripts\\Ball\\BallMovement.cs",
+              "ToolTip": "C:\\UnityProjects2025\\HelixJump_v3\\Assets\\HelixJumpFS\\Scripts\\Ball\\BallMovement.cs",
+              "RelativeToolTip": "Assets\\HelixJumpFS\\Scripts\\Ball\\BallMovement.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T08:10:42.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BallEvent.cs",
+              "DocumentMoniker": "C:\\UnityProjects2025\\HelixJump_v3\\Assets\\HelixJumpFS\\Scripts\\Ball\\BallEvent.cs",
+              "RelativeDocumentMoniker": "Assets\\HelixJumpFS\\Scripts\\Ball\\BallEvent.cs",
+              "ToolTip": "C:\\UnityProjects2025\\HelixJump_v3\\Assets\\HelixJumpFS\\Scripts\\Ball\\BallEvent.cs",
+              "RelativeToolTip": "Assets\\HelixJumpFS\\Scripts\\Ball\\BallEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T08:10:41.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Floor.cs",
+              "DocumentMoniker": "C:\\UnityProjects2025\\HelixJump_v3\\Assets\\HelixJumpFS\\Scripts\\Level\\Floor.cs",
+              "RelativeDocumentMoniker": "Assets\\HelixJumpFS\\Scripts\\Level\\Floor.cs",
+              "ToolTip": "C:\\UnityProjects2025\\HelixJump_v3\\Assets\\HelixJumpFS\\Scripts\\Level\\Floor.cs",
+              "RelativeToolTip": "Assets\\HelixJumpFS\\Scripts\\Level\\Floor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T08:02:56.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LevelGenerator.cs",
+              "DocumentMoniker": "C:\\UnityProjects2025\\HelixJump_v3\\Assets\\HelixJumpFS\\Scripts\\Level\\LevelGenerator.cs",
+              "RelativeDocumentMoniker": "Assets\\HelixJumpFS\\Scripts\\Level\\LevelGenerator.cs",
+              "ToolTip": "C:\\UnityProjects2025\\HelixJump_v3\\Assets\\HelixJumpFS\\Scripts\\Level\\LevelGenerator.cs",
+              "RelativeToolTip": "Assets\\HelixJumpFS\\Scripts\\Level\\LevelGenerator.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwEcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T07:41:40.132Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
