@@ -15,9 +15,6 @@ This is a **learning project** created to experiment with and study the mechanic
 
 This project is not a complete game but rather an exploration of specific game mechanics.
 
-## Technologies Used
-- **Unity**: The project is developed using the Unity game engine (version X.X.X).  
-  *(Replace "X.X.X" with the actual version if relevant.)*
 
 ## How to Run
 1. Clone this repository to your local machine.
