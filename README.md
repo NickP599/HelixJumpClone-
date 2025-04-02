@@ -18,6 +18,6 @@ This project is not a complete game but rather an exploration of specific game m
 
 ## How to Run
 1. Clone this repository to your local machine.
-2. Open the project in Unity (version 6000 or later).
+2. Open the project in Unity (version 6000.0.32f1 or later).
 3. Press the "Play" button in the Unity editor to run the scene.
 
